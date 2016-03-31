@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">手写文字识别评测</string>
+    <string name="control_hint">开始测试</string>
+    <string name="result_hint">请点击“开始测试”按钮进行测试！</string>
+
+    <string name="action_change_mode">识别模式</string>
+    <string name="mode_single_word">单字模式</string>
+    <string name="mode_overlay">叠字模式</string>
+    <string name="mode_raw">短句模式</string>
+</resources>

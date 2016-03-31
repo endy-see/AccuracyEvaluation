@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidStudio\AccuracyEvaluation\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="E:\AndroidStudio\AccuracyEvaluation\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_8f87537c103001b3c1f00c168311e6adf97bc15b.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\AccuracyEvaluation\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="E:\AndroidStudio\AccuracyEvaluation\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_674420d0988f3140aceec40ac9af029d9d8837b2.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\AccuracyEvaluation\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6bc5e7e67d44206026ba9517720cf00e586f4d13">
+        <dex dex="E:\AndroidStudio\AccuracyEvaluation\app\build\intermediates\pre-dexed\debug\instant-run_bf147380367f2e51619fbb32e7bd13a7b99f94e8.jar" />
+    </item>
+    <item
+        jar="D:\android_studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="E:\AndroidStudio\AccuracyEvaluation\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_bfdc4bc02a9476bd351a87382b5cc58ea5f260c9.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\AccuracyEvaluation\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e0a0f46ec7314d7f4407ef58bf1533c759b1d0a7">
+        <dex dex="E:\AndroidStudio\AccuracyEvaluation\app\build\intermediates\pre-dexed\debug\classes_2855ccbe096675f5780f5f09e355f01d93b0f140.jar" />
+    </item>
+
+</items>
